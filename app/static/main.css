@@ -1,0 +1,35 @@
+body {
+    background: rgb(31, 40, 51);
+    background: linear-gradient(90deg, rgba(31, 40, 51, 1) 0%, rgba(68, 75, 72, 1) 48%, rgba(11, 12, 16, 1) 100%, rgba(91, 90, 96, 1) 100%);
+}
+
+
+
+.card {
+    background-color: #FFCB9A;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #1F2833;
+}
+
+.navbar-brand {
+    color: #cbd5db;
+}
+
+.submit-btn .btn {
+    background-color: #45A29E;
+}
+
+.text-muted {
+    color: #1F2833;
+}
+
+.extra {
+    color: #1F2833;
+}
